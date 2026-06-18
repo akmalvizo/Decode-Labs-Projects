@@ -12,10 +12,10 @@ I am an AI engineering intern at DecodeLabs, building real-world artificial inte
 
 | | |
 |---|---|
-| 🔗 **LinkedIn** | [Your LinkedIn URL Here] |
-| 🐙 **GitHub** | [Your GitHub URL Here] |
+| 🔗 **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/muhammad-akmal-a329352b0/) |
+| 🐙 **GitHub** | [GitHub](https://github.com/akmalvizo) |
 | 🌐 **Portfolio** | [Your Live Portfolio URL Here] |
-| 📧 **Email** | [Your Email Here] |
+| 📧 **Email** | akmal.vizo@gmail.com |
 
 ---
 
@@ -43,9 +43,9 @@ DecodeLabs is a technology training company focused on building real-world AI en
 
 | # | Project | Core Tech | Category |
 |---|---------|-----------|----------|
-| 1 | [Vizo AI — Rule-Based Chatbot](#-project-1--vizo-ai--rule-based-chatbot) | Python, Control Flow, Dictionaries | Conversational AI |
-| 2 | [Iris Flower Classification (KNN)](#-project-2--iris-flower-classification-using-knn) | Scikit-learn, Pandas, Matplotlib | Supervised ML |
-| 3 | [Tech Stack Recommender](#-project-3--tech-stack-recommender) | TF-IDF, Cosine Similarity, Scikit-learn | Recommendation Engine |
+| 1 | [Vizo AI — Rule-Based Chatbot](https://github.com/akmalvizo/Decode-Labs-Projects/tree/main/1project) | Python, Control Flow, Dictionaries | Conversational AI |
+| 2 | [Iris Flower Classification (KNN)](https://github.com/akmalvizo/Decode-Labs-Projects/tree/main/2project) | Scikit-learn, Pandas, Matplotlib | Supervised ML |
+| 3 | [Tech Stack Recommender](https://github.com/akmalvizo/Decode-Labs-Projects/tree/main/3project) | TF-IDF, Cosine Similarity, Scikit-learn | Recommendation Engine |
 
 ---
 
@@ -53,7 +53,7 @@ DecodeLabs is a technology training company focused on building real-world AI en
 
 ## 🤖 Project 1 · Vizo AI — Rule-Based Chatbot
 
-> 🔗 **GitHub Repository:** [Paste your Project 1 GitHub link here]
+> 🔗 **GitHub Repository:** [Link](https://github.com/akmalvizo/Decode-Labs-Projects/tree/main/1project)
 
 ### Overview
 
@@ -188,7 +188,7 @@ Exception Handling → try/except for KeyboardInterrupt and EOFError
 
 ## 🌸 Project 2 · Iris Flower Classification Using KNN
 
-> 🔗 **GitHub Repository:** [Paste your Project 2 GitHub link here]
+> 🔗 **GitHub Repository:** [link](https://github.com/akmalvizo/Decode-Labs-Projects/tree/main/2project)
 
 ### Overview
 
@@ -307,7 +307,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 
 ## 🚀 Project 3 · Tech Stack Recommender
 
-> 🔗 **GitHub Repository:** [Paste your Project 3 GitHub link here]
+> 🔗 **GitHub Repository:** [link](https://github.com/akmalvizo/Decode-Labs-Projects/tree/main/3project)
 
 ### Overview
 
