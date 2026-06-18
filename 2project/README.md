@@ -239,12 +239,10 @@ This project was built as part of the **DecodeLabs Industrial Training Program �
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Your Name**  
-AI Intern — DecodeLabs Batch 2026  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Muhammad Akmal**  
+AI Engineering Intern · DecodeLabs · Batch 2026
 
 ---
 
@@ -252,6 +250,7 @@ AI Intern — DecodeLabs Batch 2026
 
 This project was created as part of the DecodeLabs Industrial Training Program.  
 © 2026 Muhammad Akmal · DecodeLabs Batch 2026
+
 ---
 
 <p align="center">
